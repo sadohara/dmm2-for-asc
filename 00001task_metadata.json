@@ -1,0 +1,24 @@
+{
+ "task_name": "DCASE2018Task5",
+ "version": "FixEvalT3V1",
+ "embedding_type": "scene",
+ "prediction_type": "multiclass",
+ "split_mode": "new_split_kfold_fixeval",
+ "nfolds": 5,
+ "sample_duration": null,
+ "evaluation": [
+  "top1_acc",
+  "d_prime",
+  "aucroc",
+  "mAP"
+ ],
+"default_mode": "full",
+"mode": "full",
+ "splits": [
+  "fold00",
+  "fold01",
+  "fold02",
+  "fold03",
+  "fold04"
+ ]
+}
