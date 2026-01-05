@@ -1,0 +1,674 @@
+{
+  "DevNode4_ex52_27.wav": [
+    "cooking"
+  ],
+  "DevNode4_ex52_52.wav": [
+    "cooking"
+  ],
+  "DevNode4_ex52_39.wav": [
+    "cooking"
+  ],
+  "DevNode4_ex45_156.wav": [
+    "cooking"
+  ],
+  "DevNode4_ex52_46.wav": [
+    "cooking"
+  ],
+  "DevNode4_ex43_49.wav": [
+    "cooking"
+  ],
+  "DevNode4_ex45_115.wav": [
+    "cooking"
+  ],
+  "DevNode4_ex52_26.wav": [
+    "cooking"
+  ],
+  "DevNode4_ex51_29.wav": [
+    "cooking"
+  ],
+  "DevNode4_ex45_59.wav": [
+    "cooking"
+  ],
+  "DevNode4_ex45_150.wav": [
+    "cooking"
+  ],
+  "DevNode4_ex51_6.wav": [
+    "cooking"
+  ],
+  "DevNode4_ex52_7.wav": [
+    "cooking"
+  ],
+  "DevNode4_ex45_127.wav": [
+    "cooking"
+  ],
+  "DevNode4_ex43_41.wav": [
+    "cooking"
+  ],
+  "DevNode4_ex45_112.wav": [
+    "cooking"
+  ],
+  "DevNode4_ex43_37.wav": [
+    "cooking"
+  ],
+  "DevNode4_ex45_20.wav": [
+    "cooking"
+  ],
+  "DevNode4_ex45_67.wav": [
+    "cooking"
+  ],
+  "DevNode4_ex45_121.wav": [
+    "cooking"
+  ],
+  "DevNode4_ex45_73.wav": [
+    "cooking"
+  ],
+  "DevNode4_ex64_20.wav": [
+    "dishwashing"
+  ],
+  "DevNode4_ex60_1.wav": [
+    "dishwashing"
+  ],
+  "DevNode4_ex60_5.wav": [
+    "dishwashing"
+  ],
+  "DevNode4_ex64_11.wav": [
+    "dishwashing"
+  ],
+  "DevNode4_ex64_17.wav": [
+    "dishwashing"
+  ],
+  "DevNode4_ex60_17.wav": [
+    "dishwashing"
+  ],
+  "DevNode4_ex71_27.wav": [
+    "eating"
+  ],
+  "DevNode4_ex76_74.wav": [
+    "eating"
+  ],
+  "DevNode4_ex78_7.wav": [
+    "eating"
+  ],
+  "DevNode4_ex76_64.wav": [
+    "eating"
+  ],
+  "DevNode4_ex76_20.wav": [
+    "eating"
+  ],
+  "DevNode4_ex78_10.wav": [
+    "eating"
+  ],
+  "DevNode4_ex76_52.wav": [
+    "eating"
+  ],
+  "DevNode4_ex76_57.wav": [
+    "eating"
+  ],
+  "DevNode4_ex78_2.wav": [
+    "eating"
+  ],
+  "DevNode4_ex106_1.wav": [
+    "other"
+  ],
+  "DevNode4_ex88_4.wav": [
+    "other"
+  ],
+  "DevNode4_ex96_3.wav": [
+    "other"
+  ],
+  "DevNode4_ex85_1.wav": [
+    "other"
+  ],
+  "DevNode4_ex97_1.wav": [
+    "other"
+  ],
+  "DevNode4_ex141_7.wav": [
+    "other"
+  ],
+  "DevNode4_ex164_1.wav": [
+    "other"
+  ],
+  "DevNode4_ex127_1.wav": [
+    "other"
+  ],
+  "DevNode4_ex202_54.wav": [
+    "social_activity"
+  ],
+  "DevNode4_ex202_230.wav": [
+    "social_activity"
+  ],
+  "DevNode4_ex202_260.wav": [
+    "social_activity"
+  ],
+  "DevNode4_ex202_79.wav": [
+    "social_activity"
+  ],
+  "DevNode4_ex202_337.wav": [
+    "social_activity"
+  ],
+  "DevNode4_ex202_326.wav": [
+    "social_activity"
+  ],
+  "DevNode4_ex202_272.wav": [
+    "social_activity"
+  ],
+  "DevNode4_ex216_3.wav": [
+    "social_activity"
+  ],
+  "DevNode4_ex202_12.wav": [
+    "social_activity"
+  ],
+  "DevNode4_ex202_344.wav": [
+    "social_activity"
+  ],
+  "DevNode4_ex202_39.wav": [
+    "social_activity"
+  ],
+  "DevNode4_ex202_269.wav": [
+    "social_activity"
+  ],
+  "DevNode4_ex202_203.wav": [
+    "social_activity"
+  ],
+  "DevNode4_ex202_259.wav": [
+    "social_activity"
+  ],
+  "DevNode4_ex202_211.wav": [
+    "social_activity"
+  ],
+  "DevNode4_ex202_325.wav": [
+    "social_activity"
+  ],
+  "DevNode4_ex202_10.wav": [
+    "social_activity"
+  ],
+  "DevNode4_ex216_7.wav": [
+    "social_activity"
+  ],
+  "DevNode4_ex202_207.wav": [
+    "social_activity"
+  ],
+  "DevNode4_ex202_162.wav": [
+    "social_activity"
+  ],
+  "DevNode4_ex202_369.wav": [
+    "social_activity"
+  ],
+  "DevNode4_ex202_355.wav": [
+    "social_activity"
+  ],
+  "DevNode4_ex202_89.wav": [
+    "social_activity"
+  ],
+  "DevNode4_ex202_238.wav": [
+    "social_activity"
+  ],
+  "DevNode4_ex202_265.wav": [
+    "social_activity"
+  ],
+  "DevNode4_ex202_320.wav": [
+    "social_activity"
+  ],
+  "DevNode4_ex221_2.wav": [
+    "vacuum_cleaner"
+  ],
+  "DevNode4_ex223_11.wav": [
+    "vacuum_cleaner"
+  ],
+  "DevNode4_ex221_35.wav": [
+    "vacuum_cleaner"
+  ],
+  "DevNode4_ex221_27.wav": [
+    "vacuum_cleaner"
+  ],
+  "DevNode4_ex234_329.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_369.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex233_329.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_232.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_195.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_347.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_89.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex233_8.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_750.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_779.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_559.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex233_108.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_537.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_93.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_620.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_378.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_752.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex233_17.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_272.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_306.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_716.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_348.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex233_254.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_393.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_515.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_436.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex233_86.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_145.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex233_280.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_468.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_222.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex233_237.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_428.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex233_142.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_808.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex233_139.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_783.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_56.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex233_202.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_199.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_355.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_551.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_455.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_328.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_95.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_163.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_723.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_550.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_344.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_799.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_134.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_126.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_654.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex233_18.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_244.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex233_77.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_738.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex233_235.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_706.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_2.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_536.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_111.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_615.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_411.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_403.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_356.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_815.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex233_15.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex233_255.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex233_252.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_632.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_120.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex233_348.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_462.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_424.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex234_385.wav": [
+    "watching_tv"
+  ],
+  "DevNode4_ex240_67.wav": [
+    "working"
+  ],
+  "DevNode4_ex240_222.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_207.wav": [
+    "working"
+  ],
+  "DevNode4_ex240_27.wav": [
+    "working"
+  ],
+  "DevNode4_ex240_92.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_376.wav": [
+    "working"
+  ],
+  "DevNode4_ex248_5.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_475.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_30.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_205.wav": [
+    "working"
+  ],
+  "DevNode4_ex248_196.wav": [
+    "working"
+  ],
+  "DevNode4_ex248_129.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_493.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_28.wav": [
+    "working"
+  ],
+  "DevNode4_ex240_154.wav": [
+    "working"
+  ],
+  "DevNode4_ex240_104.wav": [
+    "working"
+  ],
+  "DevNode4_ex240_176.wav": [
+    "working"
+  ],
+  "DevNode4_ex248_192.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_151.wav": [
+    "working"
+  ],
+  "DevNode4_ex237_17.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_489.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_117.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_124.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_327.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_158.wav": [
+    "working"
+  ],
+  "DevNode4_ex248_181.wav": [
+    "working"
+  ],
+  "DevNode4_ex252_23.wav": [
+    "working"
+  ],
+  "DevNode4_ex240_132.wav": [
+    "working"
+  ],
+  "DevNode4_ex248_170.wav": [
+    "working"
+  ],
+  "DevNode4_ex248_24.wav": [
+    "working"
+  ],
+  "DevNode4_ex248_189.wav": [
+    "working"
+  ],
+  "DevNode4_ex248_20.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_243.wav": [
+    "working"
+  ],
+  "DevNode4_ex252_22.wav": [
+    "working"
+  ],
+  "DevNode4_ex237_19.wav": [
+    "working"
+  ],
+  "DevNode4_ex239_2.wav": [
+    "working"
+  ],
+  "DevNode4_ex248_65.wav": [
+    "working"
+  ],
+  "DevNode4_ex248_22.wav": [
+    "working"
+  ],
+  "DevNode4_ex248_82.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_280.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_445.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_211.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_57.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_295.wav": [
+    "working"
+  ],
+  "DevNode4_ex252_1.wav": [
+    "working"
+  ],
+  "DevNode4_ex240_22.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_44.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_226.wav": [
+    "working"
+  ],
+  "DevNode4_ex248_59.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_271.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_13.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_193.wav": [
+    "working"
+  ],
+  "DevNode4_ex237_14.wav": [
+    "working"
+  ],
+  "DevNode4_ex248_91.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_223.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_309.wav": [
+    "working"
+  ],
+  "DevNode4_ex248_13.wav": [
+    "working"
+  ],
+  "DevNode4_ex240_63.wav": [
+    "working"
+  ],
+  "DevNode4_ex239_27.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_103.wav": [
+    "working"
+  ],
+  "DevNode4_ex240_15.wav": [
+    "working"
+  ],
+  "DevNode4_ex240_58.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_256.wav": [
+    "working"
+  ],
+  "DevNode4_ex248_212.wav": [
+    "working"
+  ],
+  "DevNode4_ex239_14.wav": [
+    "working"
+  ],
+  "DevNode4_ex248_88.wav": [
+    "working"
+  ],
+  "DevNode4_ex248_21.wav": [
+    "working"
+  ],
+  "DevNode4_ex248_81.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_69.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_364.wav": [
+    "working"
+  ],
+  "DevNode4_ex240_91.wav": [
+    "working"
+  ],
+  "DevNode4_ex240_59.wav": [
+    "working"
+  ],
+  "DevNode4_ex248_71.wav": [
+    "working"
+  ],
+  "DevNode4_ex258_322.wav": [
+    "working"
+  ]
+}
